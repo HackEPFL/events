@@ -1,4 +1,1 @@
-events
-======
-
-Issue tracker for all the events organized by @HackEFPL
+# Check in the [Issues](https://github.com/HackEPFL/events/issues) how you can help to organize our events
